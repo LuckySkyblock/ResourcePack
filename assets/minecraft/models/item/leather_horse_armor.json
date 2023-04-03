@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": { "layer0": "item/leather_horse_armor" },
+    "overrides": [
+        { "predicate": { "custom_model_data": 1 }, "model": "custom/crates/loot_crate_open" },
+        { "predicate": { "custom_model_data": 2 }, "model": "custom/crates/loot_crate_closed" },
+        { "predicate": { "custom_model_data": 3 }, "model": "custom/crates/loot_crate_key" }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "parent": "builtin/generated",
+    "textures": {
+        "layer0": "item/paper"
+    },
+    "overrides": [
+          { "predicate": { "custom_model_data": 1}, "model": "custom/hats/hair" },
+          { "predicate": { "custom_model_data": 2}, "model": "custom/hats/hair_2" },
+          { "predicate": { "custom_model_data": 3}, "model": "custom/hats/hair_3" },
+          { "predicate": { "custom_model_data": 4}, "model": "custom/hats/horns" },
+          { "predicate": { "custom_model_data": 5}, "model": "custom/hats/demon_horns" },
+          { "predicate": { "custom_model_data": 6}, "model": "custom/hats/unicorn_horn_hat" },
+          { "predicate": { "custom_model_data": 7}, "model": "custom/hats/halo" },
+          { "predicate": { "custom_model_data": 8}, "model": "custom/hats/sheriff_hat" },
+          { "predicate": { "custom_model_data": 9}, "model": "custom/hats/joker_hat" },
+          { "predicate": { "custom_model_data": 10}, "model": "custom/hats/santa_hat" },
+          { "predicate": { "custom_model_data": 11}, "model": "custom/hats/bearded_santa_hat" },
+          { "predicate": { "custom_model_data": 12}, "model": "custom/hats/elf_hat" },
+          { "predicate": { "custom_model_data": 13}, "model": "custom/hats/reindeer_hat" },
+          { "predicate": { "custom_model_data": 14}, "model": "custom/hats/snowman_hat" },
+          { "predicate": { "custom_model_data": 15}, "model": "custom/hats/snowflake_hat" },
+          { "predicate": { "custom_model_data": 16}, "model": "custom/crates/christmas_loot_crate" }
+    ]
+}
